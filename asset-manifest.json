@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/react-core-concept/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/react-core-concept/static/js/main.3d04cb1d.chunk.js",
-    "main.js.map": "/react-core-concept/static/js/main.3d04cb1d.chunk.js.map",
+    "main.css": "/react-core-concept/static/css/main.7d180cbf.chunk.css",
+    "main.js": "/react-core-concept/static/js/main.1b530f1f.chunk.js",
+    "main.js.map": "/react-core-concept/static/js/main.1b530f1f.chunk.js.map",
     "runtime-main.js": "/react-core-concept/static/js/runtime-main.0807c534.js",
     "runtime-main.js.map": "/react-core-concept/static/js/runtime-main.0807c534.js.map",
     "static/js/2.a40f8c97.chunk.js": "/react-core-concept/static/js/2.a40f8c97.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.c2229522.chunk.js": "/react-core-concept/static/js/3.c2229522.chunk.js",
     "static/js/3.c2229522.chunk.js.map": "/react-core-concept/static/js/3.c2229522.chunk.js.map",
     "index.html": "/react-core-concept/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/react-core-concept/static/css/main.8c8b27cf.chunk.css.map",
+    "static/css/main.7d180cbf.chunk.css.map": "/react-core-concept/static/css/main.7d180cbf.chunk.css.map",
     "static/js/2.a40f8c97.chunk.js.LICENSE.txt": "/react-core-concept/static/js/2.a40f8c97.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/react-core-concept/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.0807c534.js",
     "static/js/2.a40f8c97.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.3d04cb1d.chunk.js"
+    "static/css/main.7d180cbf.chunk.css",
+    "static/js/main.1b530f1f.chunk.js"
   ]
 }
